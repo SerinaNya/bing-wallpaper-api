@@ -1,0 +1,5 @@
+fastapi
+tinydb
+uvicorn[standard]
+arrow
+requests
